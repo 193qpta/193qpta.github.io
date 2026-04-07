@@ -20,37 +20,34 @@
 
 | Today | Proposed | What changed and why |
 |-------|----------|---------------------|
-| Corresponding Secretary | **Corresponding Secretary/Tech** | Adds tech duties (website, QR codes, document management) that are a natural fit with flyer/distribution work |
-| Parent Volunteer Coordinator | *(merged into Membership/Volunteer)* | Volunteer coordination pairs better with membership outreach than as a standalone role |
-| Membership/Tech | *(split — see above and below)* | "Membership" and "Tech" are unrelated jobs awkwardly combined |
-| *(from Membership/Tech)* | **Membership/Volunteer** | Combines the people-facing halves: membership roster, social media, volunteer coordination |
-| Hospitality | **Hospitality** | No change — keeps current duties |
-| Fundraising (up to 4 people, unclear duties) | **Fundraising - Shops** | Clear domain: Book fair, Holiday shops, apparel |
-| | **Fundraising - Lunch Period** | Clear domain: Fun Friday, Pizza Day |
-| | **Fundraising - Dances & Events** | Clear domain: Halloween Dance, Spring Fling, large fundraisers |
+| Corresponding Secretary | **Corresponding Secretary** | Kept as-is (flyers, copies); new explicit duty to secure admin approval for flyers before distribution |
+| Membership/Tech | **Tech** | Split out tech into its own position: social media postings, review flyers created by Corresponding Secretary |
+| *(from Membership/Tech)* | **TBD** | Membership duties (collecting dues in September) are lightweight/seasonal — needs a home position |
+| Parent Volunteer Coordinator | **TBD** | Disposition to be decided at next meeting |
+| Fundraising (up to 4 people, unclear duties) | **Fundraising** | Split into named sub-positions rejected; all fundraising members organize activities jointly with explicit shared duties defined in bylaws |
 | *(new)* | **Educational & Social Programming** | Separates non-fundraising events from fundraising: Charity walk, Residency, Fall Festival, Carnival, Welcome Back Party, grant applications |
 
-### Positions Removed (in bylaws but not in use)
+### Positions Removed
 
 | Position | Reason |
 |----------|--------|
 | Vice President | Not filled; no clear need |
 | Parliamentarian | Not filled; no clear need |
 | Sergeant at Arms | Not filled; no clear need |
+| Hospitality | Dormant; removed by committee (April 7, 2026) |
 
 ---
 
 ## Proposed Non-Mandatory Officers: Clean List
 
-| # | Position | Key Responsibilities |
-|---|----------|---------------------|
-| 1 | Corresponding Secretary/Tech | Flyers; printer; QR codes; website; document management; backup for Recording Secretary |
-| 2 | Membership/Volunteer | Count membership; social media; coordinate volunteers |
-| ~~3~~ | ~~Hospitality~~ | ~~Removed — position not currently filled; duties can be handled by volunteers~~ |
-| 4 | Fundraising - Shops | Book fair; Holiday shops; apparel sales |
-| 5 | Fundraising - Lunch Period | Fun Friday; Pizza Day |
-| 6 | Fundraising - Dances & Events | Halloween Dance; Spring Fling; other large fundraising events |
-| 7 | Educational & Social Programming | Charity walk; Residency; Fall Festival; Carnival; Welcome Back Party; grant applications |
+| # | Position | Key Responsibilities | Status |
+|---|----------|---------------------|--------|
+| 1 | Corresponding Secretary | Flyers; copies; secure admin approval for flyers before distribution | Decided |
+| 2 | Tech | Social media postings; review flyers created by Corresponding Secretary | Decided |
+| 3 | Fundraising | All fundraising activities, organized jointly by all fundraising board members | Decided (joint duties language TBD) |
+| 4 | Educational & Social Programming | Charity walk; Residency; Fall Festival; Carnival; Welcome Back Party; grant applications | Decided |
+| ? | Membership duties | Collecting dues in early September — lightweight, seasonal | Open — needs a home position |
+| ? | Parent Volunteer Coordinator | Coordinate volunteers | Open — disposition TBD |
 
 ---
 
@@ -65,5 +62,6 @@
 ## Summary
 
 - **3 mandatory officers** — unchanged
-- **6 non-mandatory officers** — replacing the current mix of 5 informal + 3 unused bylaws positions
-- **Net effect:** Every position has a clear name, a clear domain, and no overlapping responsibilities
+- **4 non-mandatory officers decided** — Corresponding Secretary, Tech, Fundraising, Educational & Social Programming
+- **2 open items** — membership duties and Parent Volunteer Coordinator disposition to be finalized at next meeting
+- **4 positions removed** — VP, Parliamentarian, Sergeant at Arms (unused bylaws positions), Hospitality (dormant)
