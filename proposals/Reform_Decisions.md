@@ -9,7 +9,7 @@ This document tracks proposals and decisions for the bylaws revision committee. 
 
 # Decided
 
-The following proposals were approved by the committee on March 30, 2026.
+The following proposals have been approved by the committee.
 
 ---
 
@@ -112,6 +112,47 @@ Replace Article III, Section B.2 with:
 
 ---
 
+## Proposal 6: Increase Emergency Expenditure Limit
+
+**Status:** Decided — Approved
+**Decision Date:** April 7, 2026
+**Current bylaws reference:** Article VIII.G.3 (Emergency Expenditures) — currently $1,000
+
+### Rationale
+In practice the board regularly approves expenditures well above $1,000 between meetings. Raising the limit would align the bylaws with actual operations.
+
+### Proposed Language
+Replace the emergency expenditure limit in Article VIII, Section G.3 from $1,000 to:
+
+> 3\. The executive board is authorized to make an emergency expenditure not to exceed $2,500 with a two-thirds approval of the executive board.
+
+### Committee History
+- **March 30:** Dan proposed $5,000 (matching PS 186Q). Amy requested historical data; Melissa noted a smaller limit could be leverage against unwanted admin requests; Nicole concerned $5,000 would be rejected by general membership.
+- **April 7:** Committee reviewed historical data and agreed on $2,500 as the new limit.
+
+---
+
+## Proposal 1: Add A-660 Supremacy Clause
+
+**Status:** Decided — Approved
+**Decision Date:** April 7, 2026
+**Model:** PS 20 Clinton Hill (2024 bylaws, Article II, item 6)
+**Current bylaws reference:** Article II (Objectives) — no equivalent provision exists
+
+### Rationale
+The board frequently refers back to Chancellor's Regulation A-660 to resolve questions. An explicit supremacy clause avoids ambiguity about what happens if a bylaw provision inadvertently conflicts with the regulation, and protects the Association from adopting a provision that turns out to be non-compliant.
+
+### Proposed Language
+Add as item 6 under Article II (Objectives):
+
+> 6\. Comply with Chancellor's Regulation A-660. Although the Association has attempted to ensure that these bylaws comply with Chancellor's Regulation A-660, the regulation shall control over provisions in these bylaws that violate Chancellor's Regulation A-660 (if any). For the avoidance of doubt, if any provisions in these bylaws are impermissible under Chancellor's Regulation A-660, every permissible provision in these bylaws shall remain in place.
+
+### Impact
+- No operational change — formalizes existing practice
+- Provides legal clarity if a dispute arises
+
+---
+
 # Discussed
 
 The following proposals were introduced at the March 30 meeting and received committee feedback. They are returning for further discussion and decision.
@@ -128,6 +169,16 @@ The following proposals were introduced at the March 30 meeting and received com
 - **Amy** raised concern about further board consolidation reducing "hands to help" — merging positions could mean fewer people doing the work
 - **Melissa** raised concern that if the PTA reduces its fundraisers in the future, the named fundraising positions may not map well to actual needs
 - Nothing was rejected outright; proposal disseminated for review ahead of next meeting
+
+### Committee Feedback (April 7, 2026)
+- Hospitality position removed (dormant)
+- Corresponding Secretary kept as-is (flyers and copies); new explicit duty to secure administration approval for flyers; tech duties NOT merged in
+- Membership/Tech merge rejected — committee agrees these should be separate but hasn't resolved the split:
+  - **Tech** position agreed in principle: social media postings + reviewing flyers created by Corresponding Secretary
+  - **Membership** duties (collecting dues in early September) are lightweight and seasonal; open question about which position absorbs them
+  - To be finalized at next meeting
+- Fundraising split into 3 named sub-positions rejected; fundraising members will organize activities jointly with explicit duties defined in the bylaws
+- Educational & Social Programming position accepted as proposed
 **Current bylaws reference:** Article IV.A.2 (Titles — non-mandatory officers); Article IV.C.4 (Duties — non-mandatory officers); Article V.A (Executive Board composition — blank placeholder)
 
 ### Rationale
@@ -136,69 +187,27 @@ The bylaws list VP, Corresponding Secretary, Parliamentarian, and Sergeant at Ar
 ### Proposed Changes
 See `Position_Matrix.md` for the full before/after breakdown. Summary:
 
-- Merge Corresponding Secretary + tech duties → **Corresponding Secretary/Tech**
-- Merge Membership + Volunteer Coordinator → **Membership/Volunteer**
-- Keep **Hospitality** as-is
-- Split Fundraising (currently up to 4 people, unclear duties) into 3 named positions:
-  - **Fundraising - Shops** (Book fair, Holiday shops, apparel)
-  - **Fundraising - Lunch Period** (Fun Friday, Pizza Day)
-  - **Fundraising - Dances & Events** (Halloween Dance, Spring Fling, large fundraisers)
+**Decided:**
+- Keep **Corresponding Secretary** as-is (flyers and copies); add explicit duty to secure administration approval for flyers before distribution
+- Add new: **Tech** — social media postings; review flyers created by Corresponding Secretary
+- Keep **Fundraising** as a shared position (split into named sub-positions rejected); all fundraising board members organize activities jointly; bylaws will include explicit language defining joint duties
 - Add new: **Educational & Social Programming** (Charity walk, Residency, Fall Festival, Carnival, Welcome Back Party, grant applications)
-- Remove unused: VP, Parliamentarian, Sergeant at Arms
+- Remove: **Hospitality** (dormant)
+- Remove unused from bylaws: VP, Parliamentarian, Sergeant at Arms
+
+**Open — to be finalized next meeting:**
+- **Membership** duties (collecting dues in early September) — lightweight and seasonal; needs a home position
+- Parent Volunteer Coordinator disposition unclear
 
 ### Impact
-- 7 non-mandatory positions replacing current mix of 5 informal + 3 unused
-- Every position has a clear name, domain, and no overlapping responsibilities
+- Clearer position definitions with no overlapping responsibilities
 - Directly addresses the primary source of board acrimony
-
----
-
-## Proposal 6: Increase Emergency Expenditure Limit
-
-**Status:** Discussed — Not yet decided; revisit with historical spending data
-**Decision Date:** *Pending*
-**Current bylaws reference:** Article VIII.G.3 (Emergency Expenditures) — currently $1,000
-
-### Rationale
-In practice the board regularly approves expenditures well above $1,000 between meetings. Raising the limit would align the bylaws with actual operations.
-
-### Dan's Proposal
-Increase from $1,000 to $5,000 (matching PS 186Q).
-
-### Committee Feedback (March 30, 2026)
-- **Amy** requested historical expenditure amounts to verify the right number before deciding
-- **Melissa** noted a smaller limit could work in the board's favor as a reason to push back on administration requests the PTA doesn't want to grant
-- **Nicole** concerned that a large increase (5x) may lead to the revised bylaws being rejected by the general membership
-
-### Action Item
-Dan to pull historical emergency/between-meeting expenditure data for the next committee meeting.
 
 ---
 
 # Proposed (New)
 
-The following proposals have not yet been discussed by the committee. They are being introduced for the first time at the next meeting.
-
----
-
-## Proposal 1: Add A-660 Supremacy Clause
-
-**Status:** Proposed
-**Decision Date:** *Pending committee review*
-**Model:** PS 20 Clinton Hill (2024 bylaws, Article II, item 6)
-**Current bylaws reference:** Article II (Objectives) — no equivalent provision exists
-
-### Rationale
-The board frequently refers back to Chancellor's Regulation A-660 to resolve questions. An explicit supremacy clause avoids ambiguity about what happens if a bylaw provision inadvertently conflicts with the regulation, and protects the Association from adopting a provision that turns out to be non-compliant.
-
-### Proposed Language
-Add as item 6 under Article II (Objectives):
-
-> 6\. Comply with Chancellor's Regulation A-660. Although the Association has attempted to ensure that these bylaws comply with Chancellor's Regulation A-660, the regulation shall control over provisions in these bylaws that violate Chancellor's Regulation A-660 (if any). For the avoidance of doubt, if any provisions in these bylaws are impermissible under Chancellor's Regulation A-660, every permissible provision in these bylaws shall remain in place.
-
-### Impact
-- No operational change — formalizes existing practice
-- Provides legal clarity if a dispute arises
+The following proposals have not yet been substantively discussed by the committee.
 
 ---
 
@@ -248,7 +257,7 @@ Create one or more Member-at-Large positions reserved for parents new to the sch
 
 ## Proposal 10: Establish 5th Grade Graduation Committee and Funding Structure
 
-**Status:** Proposed — To be discussed at next committee meeting
+**Status:** Discussed — Introduced April 7; committee to review and revisit at next meeting
 **Decision Date:** *Pending*
 **Current bylaws reference:** Article IV.A.2 (Titles — non-mandatory officers); Article VII.A (Standing Committees); Article VIII.G (Use of Funds) — no equivalent provisions exist for any of these changes
 
