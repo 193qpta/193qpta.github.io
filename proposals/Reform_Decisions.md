@@ -46,6 +46,9 @@ PS 193Q already operates with co-officers (co-presidents, co-treasurers) but the
 - Provides clear rules for elections, vacancies, and term limits involving co-officers
 - Eliminates ambiguity about shared responsibilities
 
+### Subsequent Clarification (April 10, 2026)
+The Fundraising position is exempt from this co-officer policy. As clarified in Proposal 3, Fundraising may be filled by up to four (4) individuals, each elected individually rather than as part of a co-officer slate. This exception is captured in `proposals/Officer_Duties.md` under the Fundraising entry. The general co-officer policy decided on March 30 stands without modification — Fundraising is treated as a position-specific exception rather than a change to the policy itself.
+
 ---
 
 ## Proposal 4: Set Term Limits at 2 Consecutive Terms
@@ -153,6 +156,50 @@ Add as item 6 under Article II (Objectives):
 
 ---
 
+## Proposal 8: Add Indemnification Clause
+
+**Status:** Decided — Approved
+**Decision Date:** April 10, 2026
+**Model:** PS 20 Clinton Hill (2024 bylaws, Article IX)
+**Current bylaws reference:** N/A — no equivalent provision exists
+
+### Rationale
+Officers volunteer their time and can face personal legal exposure for good-faith decisions made on behalf of the Association. An indemnification clause protects past and present officers against expenses and liabilities from legal proceedings related to their service, provided they did not engage in willful misconduct or gross negligence.
+
+### Proposed Language (from PS 20)
+
+> The Association may, to the extent legally permissible, indemnify any past or present officer, director, eligible member, or volunteer against all expenses and liabilities reasonably incurred in connection with actual or threatened legal proceedings by reason of his or her service in such capacity, provided that that individual has not engaged in willful misconduct or gross negligence that directly or indirectly led to the named or threatened action. Reasonable expenses shall include judgments, fines, penalties, settlements, and reasonable attorneys' fees incurred by an attorney selected by the PTA. This provision shall not limit the PTA's ability to otherwise indemnify individuals at its discretion.
+
+### Impact
+- Protects volunteers from personal financial risk for good-faith service
+- Standard nonprofit governance provision
+- No cost to the Association unless a claim actually arises
+
+---
+
+## Proposal 9: Create Incoming Parent Position Opportunities
+
+**Status:** Decided — Approved
+**Decision Date:** April 10, 2026
+**Model:** PS 11 Chelsea (2023 bylaws, Article IV, Section 3.10 — Members-at-Large)
+**Current bylaws reference:** N/A — no equivalent provision exists
+
+### Rationale
+New families often want to get involved but are unfamiliar with the PTA and hesitant to run for a named officer position. Creating a designated pathway for incoming parents lowers the barrier to board participation and builds the pipeline of future officers.
+
+### Decided
+- **Two (2) Member-at-Large positions** reserved for parents or guardians whose child first enrolled at PS 193Q after the date of the most recent annual election
+- Elected in the fall (October) rather than spring, giving new families time to settle in
+- Serve on the executive board with voting rights
+- **General duties:** assist Fundraising, Corresponding Secretary, Educational & Social Programming, and Volunteer Coordinator with their respective responsibilities
+
+### Impact
+- Lowers the barrier to board participation for new families
+- Builds the pipeline of future officers
+- Provides flexible support to existing officers without committing new parents to a single named role
+
+---
+
 # Discussed
 
 The following proposals were introduced at the March 30 meeting and received committee feedback. They are returning for further discussion and decision.
@@ -179,6 +226,12 @@ The following proposals were introduced at the March 30 meeting and received com
   - To be finalized at next meeting
 - Fundraising split into 3 named sub-positions rejected; fundraising members will organize activities jointly with explicit duties defined in the bylaws
 - Educational & Social Programming position accepted as proposed
+
+### Committee Feedback (April 10, 2026) — Tentative; to be revisited after Proposal 10
+- Position list ends up close to current operational structure, with cleanup, renaming, and the new Educational & Social Programming Chair
+- **Membership/Tech** renamed to **Social Media and Membership** — combines social media postings, flyer review, and the seasonal membership duties (collecting dues in September)
+- **Parent Volunteer Coordinator** stays put as its own position
+- Position list will be revisited after Proposal 10 is finalized, since they interact
 **Current bylaws reference:** Article IV.A.2 (Titles — non-mandatory officers); Article IV.C.4 (Duties — non-mandatory officers); Article V.A (Executive Board composition — blank placeholder)
 
 ### Rationale
@@ -187,21 +240,27 @@ The bylaws list VP, Corresponding Secretary, Parliamentarian, and Sergeant at Ar
 ### Proposed Changes
 See `Position_Matrix.md` for the full before/after breakdown. Summary:
 
-**Decided:**
-- Keep **Corresponding Secretary** as-is (flyers and copies); add explicit duty to secure administration approval for flyers before distribution
-- Add new: **Tech** — social media postings; review flyers created by Corresponding Secretary
-- Keep **Fundraising** as a shared position (split into named sub-positions rejected); all fundraising board members organize activities jointly; bylaws will include explicit language defining joint duties
-- Add new: **Educational & Social Programming** (Charity walk, Residency, Fall Festival, Carnival, Welcome Back Party, grant applications)
-- Remove: **Hospitality** (dormant)
-- Remove unused from bylaws: VP, Parliamentarian, Sergeant at Arms
+**Tentative non-mandatory officer list (to be finalized after Proposal 10):**
+- **Corresponding Secretary** — flyers and copies; new explicit duty to secure administration approval for flyers before distribution
+- **Social Media and Membership** (renamed from Membership/Tech) — social media postings; review flyers created by Corresponding Secretary; collect dues in early September
+- **Parent Volunteer Coordinator** — stays put
+- **Fundraising** — up to four (4) individual positions; not subject to the co-officer policy (each Fundraising officer is elected individually); all Fundraising officers plan and execute activities jointly; bylaws will include explicit language defining joint duties
+- **Educational & Social Programming** — new position (Charity walk, Residency, Fall Festival, Carnival, Welcome Back Party, grant applications)
+- **5th Grade Coordinator** (from Proposal 10) — chairs the 5th Grade Graduation Committee; oversees senior activities, annual budget request, and coordination meetings with administration and the Fundraising team; need not have a child currently enrolled in 5th grade
+- **Member-at-Large × 2** (from Proposal 9) — incoming parents; assist Fundraising, Corresponding Secretary, Educational & Social Programming, and Volunteer Coordinator
 
-**Open — to be finalized next meeting:**
-- **Membership** duties (collecting dues in early September) — lightweight and seasonal; needs a home position
-- Parent Volunteer Coordinator disposition unclear
+**Removed:**
+- **Hospitality** (dormant)
+- **VP, Parliamentarian, Sergeant at Arms** (unused from existing bylaws)
+
+### Proposed Bylaws Language for Article IV, Section C.4
+
+The full proposed duty language for all non-mandatory officer positions is maintained in a separate document: **`proposals/Officer_Duties.md`**. That document is the source of truth for the bylaws-ready text and is intended to replace Article IV, Section C.4 in its entirety when the bylaws are amended. Edits to position duties should be made there, not in this document.
 
 ### Impact
 - Clearer position definitions with no overlapping responsibilities
 - Directly addresses the primary source of board acrimony
+- Formalizes positions that have been operating informally for years (Parent Volunteer Coordinator, Membership/Tech, Fundraising) into the bylaws
 
 ---
 
@@ -211,53 +270,9 @@ The following proposals have not yet been substantively discussed by the committ
 
 ---
 
-## Proposal 8: Add Indemnification Clause
-
-**Status:** Proposed — Committee expressed interest; to be discussed at next meeting
-**Decision Date:** *Pending*
-**Model:** PS 20 Clinton Hill (2024 bylaws, Article IX)
-**Current bylaws reference:** N/A — no equivalent provision exists
-
-### Rationale
-Officers volunteer their time and can face personal legal exposure for good-faith decisions made on behalf of the Association. An indemnification clause protects past and present officers against expenses and liabilities from legal proceedings related to their service, provided they did not engage in willful misconduct or gross negligence.
-
-### Proposed Language (from PS 20)
-
-> The Association may, to the extent legally permissible, indemnify any past or present officer, director, eligible member, or volunteer against all expenses and liabilities reasonably incurred in connection with actual or threatened legal proceedings by reason of his or her service in such capacity, provided that that individual has not engaged in willful misconduct or gross negligence that directly or indirectly led to the named or threatened action. Reasonable expenses shall include judgments, fines, penalties, settlements, and reasonable attorneys' fees incurred by an attorney selected by the PTA. This provision shall not limit the PTA's ability to otherwise indemnify individuals at its discretion.
-
-### Impact
-- Protects volunteers from personal financial risk for good-faith service
-- Standard nonprofit governance provision
-- No cost to the Association unless a claim actually arises
-
----
-
-## Proposal 9: Create Incoming Parent Position Opportunities
-
-**Status:** Proposed — Committee expressed interest; to be discussed at next meeting
-**Decision Date:** *Pending*
-**Model:** PS 11 Chelsea (2023 bylaws, Article IV, Section 3.10 — Members-at-Large)
-**Current bylaws reference:** N/A — no equivalent provision exists
-
-### Rationale
-New families often want to get involved but are unfamiliar with the PTA and hesitant to run for a named officer position. Creating a designated pathway for incoming parents lowers the barrier to board participation and builds the pipeline of future officers.
-
-### Concept
-Create one or more Member-at-Large positions reserved for parents new to the school. These positions would:
-- Be elected in the fall (October) rather than spring, giving new families time to settle in
-- Have lighter duties (assist with events, fundraising, etc.) as an on-ramp to future leadership
-- Serve on the executive board with voting rights
-
-### Open Questions for Committee
-- How many positions? (PS 11 Chelsea uses 2)
-- Should they be restricted to parents in their first year at the school?
-- What specific duties, if any, should be assigned?
-
----
-
 ## Proposal 10: Establish 5th Grade Graduation Committee and Funding Structure
 
-**Status:** Discussed — Introduced April 7; committee to review and revisit at next meeting
+**Status:** Discussed — Refined April 10 based on committee principles; ready for final committee review at next meeting
 **Decision Date:** *Pending*
 **Current bylaws reference:** Article IV.A.2 (Titles — non-mandatory officers); Article VII.A (Standing Committees); Article VIII.G (Use of Funds) — no equivalent provisions exist for any of these changes
 
@@ -275,7 +290,14 @@ This proposal has three components: a new executive board position, a standing c
 
 **Add to Article IV, Section A.2 (Non-Mandatory Officer Titles):**
 
-> **5th Grade Coordinator** — Chairs the 5th Grade Graduation Committee and is responsible for organizing senior activities, coordinating graduation-related fundraising, and managing the 5th grade activity budget in coordination with the Treasurer.
+> **5th Grade Coordinator** — Chairs the 5th Grade Graduation Committee and oversees the planning and execution of 5th grade senior activities. The 5th Grade Coordinator need not have a child currently enrolled in 5th grade. The duties of the 5th Grade Coordinator include:
+>
+> a. Soliciting input from upcoming 5th grade families to inform the committee's planning;
+> b. Recruiting members for the 5th Grade Graduation Committee from the 5th grade parent community;
+> c. Submitting an annual budget request through the Association's budget process and managing the 5th grade activity budget in coordination with the Treasurer;
+> d. Coordinating graduation-related fundraising;
+> e. Meeting with the school administration in July and again in October of each school year to coordinate graduation-related activities;
+> f. Meeting monthly with the President and the Fundraising team while school is in session to discuss upcoming activities and ensure alignment with broader PTA operations.
 
 *Note: This position interacts with Proposal 3 (officer restructuring) and should be included in the final non-mandatory officer list.*
 
@@ -285,15 +307,17 @@ This proposal has three components: a new executive board position, a standing c
 
 > 5\. **5th Grade Graduation Committee**
 >
-> a. The 5th Grade Graduation Committee shall be responsible for planning and organizing graduation and senior activities for the 5th grade class, including but not limited to: graduation ceremony, class trip, yearbook, senior apparel, and related events.
+> a. The 5th Grade Graduation Committee shall be responsible for planning and organizing graduation and senior activities for the 5th grade class. Activities have historically included a graduation ceremony, yearbook, and senior apparel, but the scope of activities undertaken in any given year is at the committee's discretion, informed by input gathered from upcoming 5th grade families. The committee is not obligated to organize any particular activity.
 >
-> b. The committee shall be chaired by the 5th Grade Coordinator. Other executive board members may join the committee voluntarily.
+> b. **Annual input from upcoming 5th grade families.** No later than June 1 of each school year, the 5th Grade Coordinator shall solicit input from the families of the current 4th grade class regarding desired senior activities for the upcoming school year, through a survey or other appropriate means. This input shall be advisory; the committee retains discretion based on available resources, the school calendar, volunteer capacity, and other constraints.
 >
-> c. The committee must include at least two (2) members of the general membership who are parents or guardians of current 5th grade students and who do not serve on the executive board. This requirement ensures that graduation planning is a shared responsibility between the board and the 5th grade parent community.
+> c. The committee shall be chaired by the 5th Grade Coordinator. Other executive board members may join the committee voluntarily.
 >
-> d. The 5th Grade Coordinator shall make reasonable efforts to recruit committee members beginning no later than the October general membership meeting. If the committee is unable to secure the minimum of two non-board 5th grade parent members by December 31, the 5th Grade Coordinator shall report the failure to form a complete committee to the Principal in writing. In such case, the Association shall not be obligated to organize graduation activities for that school year, but shall make any 5th grade funds already raised available to the school administration to coordinate senior activities as it sees fit.
+> d. The committee must include at least two (2) members of the general membership who are parents or guardians of current 5th grade students and who do not serve on the executive board. This requirement ensures that graduation planning is a shared responsibility between the board and the 5th grade parent community.
 >
-> e. The committee shall provide a status update to the executive board and general membership at each regular meeting from the time of its formation through the conclusion of graduation activities.
+> e. The 5th Grade Coordinator shall make reasonable efforts to recruit committee members beginning no later than the October general membership meeting. If the committee is unable to secure the minimum of two non-board 5th grade parent members by December 31, the 5th Grade Coordinator shall report the failure to form a complete committee to the Principal in writing. In such case, the Association shall not be obligated to organize graduation activities for that school year, but shall make any 5th grade funds already raised available to the school administration to coordinate senior activities as it sees fit.
+>
+> f. The committee shall provide a status update to the executive board and general membership at each regular meeting from the time of its formation through the conclusion of graduation activities.
 
 #### C. Funding: Senior Activities and Contributions
 
@@ -301,28 +325,23 @@ This proposal has three components: a new executive board position, a standing c
 
 > **Senior Activity Funds**
 >
-> a. The 5th Grade Graduation Committee may conduct fundraising activities for the purpose of funding 5th grade senior activities, subject to the same rules governing all Association fundraising under these bylaws and applicable Chancellor's Regulations.
+> Funding for 5th grade senior activities comprises three components: support from the PTA General Fund, 5th grade fundraising proceeds, and voluntary senior contributions from 5th grade families.
 >
-> b. If, after the completion of traditional fundraising activities, the funds raised are insufficient to cover planned senior activities, the executive board may authorize the collection of voluntary senior contributions from families of current 5th grade students. Senior contributions shall not be assessed before February 1 of the current school year.
+> a. **Annual budget request.** As part of the Association's annual budget process, the 5th Grade Coordinator shall submit a budget request reflecting the committee's anticipated funding needs for the upcoming school year. This request may include a request for funds from the PTA General Fund to support core graduation activities. The amount and scope of any General Fund support shall be determined through the annual budget process and approved by vote of the general membership.
 >
-> c. The amount of the suggested senior contribution shall be determined by the executive board based on the projected shortfall. No student shall be excluded from participation in any graduation activity regardless of whether their family has contributed.
+> b. **5th grade fundraising.** The 5th Grade Graduation Committee may conduct fundraising activities for the purpose of funding 5th grade senior activities, subject to the same rules governing all Association fundraising under these bylaws and applicable Chancellor's Regulations.
 >
-> d. All 5th grade funds shall be deposited into and disbursed from the Association's bank account and shall be subject to the same record-keeping and financial reporting requirements as all other Association funds.
+> c. **Senior contributions.** The executive board may authorize the collection of voluntary senior contributions from families of current 5th grade students as a planned component of senior activity funding. Contributions shall be assessed on a per-student basis, with the suggested amount set by the executive board. No student shall be excluded from participation in any graduation activity regardless of whether their family has contributed.
+>
+> d. **Financial integrity.** All 5th grade funds shall be deposited into and disbursed from the Association's bank account and shall be subject to the same record-keeping and financial reporting requirements as all other Association funds.
 
 ### Impact
 
 - **Distributes the labor:** Graduation planning becomes a committee responsibility shared between the board and 5th grade parents, rather than falling on board members alone
 - **Creates accountability:** The minimum participation requirement ensures the PTA doesn't bear sole responsibility when the parent community doesn't engage — and gives the school a clear signal when that happens
-- **Formalizes a sustainable funding model:** Fundraising remains the primary source, but optional parent contributions provide a safety valve without creating pressure to fundraise more aggressively
+- **Formalizes a sustainable funding model:** Senior activities are funded through three coordinated sources — annual PTA General Fund support set through the budget process, 5th grade fundraising, and voluntary per-student senior contributions
 - **Protects financial integrity:** Codifies that 5th grade funds follow the same treasury procedures as all other PTA funds
 - **Reduces board friction:** Removes a recurring source of inequity and stress among board members
-
-### Open Questions for Committee
-
-- What should the deadline be for forming the committee? (Proposed: December 31, with recruitment starting at the October meeting)
-- Should the bylaws specify a budgeted amount from general PTA funds (formalizing the $1,500 convention), or leave that to the annual budget process?
-- Should the 5th Grade Coordinator position require that the officer have a child in the 5th grade, or could any elected officer serve?
-- What specific senior activities should be listed, if any, versus leaving the scope to the committee's discretion?
 
 ---
 
