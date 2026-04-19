@@ -318,6 +318,8 @@ This proposal has three components: a new executive board position, a standing c
 > e. The 5th Grade Coordinator shall make reasonable efforts to recruit committee members beginning no later than the October general membership meeting. If the committee is unable to secure the minimum of two non-board 5th grade parent members by December 31, the 5th Grade Coordinator shall report the failure to form a complete committee to the Principal in writing. In such case, the Association shall not be obligated to organize graduation activities for that school year, but shall make any 5th grade funds already raised available to the school administration to coordinate senior activities as it sees fit.
 >
 > f. The committee shall provide a status update to the executive board and general membership at each regular meeting from the time of its formation through the conclusion of graduation activities.
+>
+> g. **Board common services.** The executive board shall make the following common services available to the committee: treasury services (processing of deposits and disbursements) from the Treasurer, and corresponding services (preparation of photocopies) from the Corresponding Secretary. The committee may request additional assistance from the executive board; such requests shall be approved by a majority vote of the board.
 
 #### C. Funding: Senior Activities and Contributions
 
