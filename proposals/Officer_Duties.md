@@ -2,8 +2,8 @@
 
 > This document contains the proposed language for **Article IV, Section C.4 — Non-Mandatory Officers** as part of Proposal 3 in `Reform_Decisions.md`. The text below is intended to replace Article IV, Section C.4 of the existing bylaws in its entirety.
 >
-> **Status:** Tentative pending committee finalization of Proposal 3 and Proposal 10
-> **Last updated:** April 10, 2026
+> **Status:** Adopted — incorporated into Bylaws_2026_Draft.md
+> **Last updated:** April 19, 2026
 
 ---
 
@@ -43,7 +43,7 @@ c. Maintain the Association's online communication and meeting platforms, includ
 
 d. Prepare and update membership forms and invitations to join prior to the beginning of each school year;
 
-e. Coordinate the collection of membership dues in early September and forward all collected funds to the Treasurer;
+e. Coordinate the collection of voluntary donations in early September and forward all collected funds to the Treasurer;
 
 f. Create and maintain the Association's membership roster.
 
@@ -91,17 +91,17 @@ d. Bring proposals for new educational or social programming to the executive bo
 
 The 5th Grade Coordinator chairs the 5th Grade Graduation Committee and oversees the planning and execution of 5th grade senior activities. The 5th Grade Coordinator need not have a child currently enrolled in 5th grade. The duties of the 5th Grade Coordinator shall include but are not limited to the following:
 
-a. Soliciting input from upcoming 5th grade families to inform the committee's planning;
+a. Solicit input from upcoming 5th grade families to inform the committee's planning;
 
-b. Recruiting members for the 5th Grade Graduation Committee from the 5th grade parent community;
+b. Recruit members for the 5th Grade Graduation Committee from the 5th grade parent community;
 
-c. Submitting an annual budget request through the Association's budget process and managing the 5th grade activity budget in coordination with the Treasurer;
+c. Submit an annual budget request through the Association's budget process and manage the 5th grade activity budget in coordination with the Treasurer;
 
-d. Coordinating graduation-related fundraising;
+d. Coordinate graduation-related fundraising;
 
-e. Meeting with the school administration in July and again in October of each school year to coordinate graduation-related activities;
+e. Meet with the school administration in July and again in October of each school year to coordinate graduation-related activities;
 
-f. Meeting monthly with the President and the Fundraising team while school is in session to discuss upcoming activities and ensure alignment with broader PTA operations.
+f. Meet monthly with the President and the Fundraising team while school is in session to discuss upcoming activities and ensure alignment with broader Association operations.
 
 *Operational details for the 5th Grade Graduation Committee, including the annual survey of 4th grade families, committee composition requirements, and funding mechanisms, are set forth in Proposal 10.*
 
@@ -109,20 +109,14 @@ f. Meeting monthly with the President and the Fundraising team while school is i
 
 Two (2) Member-at-Large positions are reserved for parents or guardians whose child first enrolled at PS 193Q after the date of the most recent annual election. Members-at-Large are elected in October and serve on the executive board with voting rights. The duties of the Member-at-Large positions shall include but are not limited to:
 
-a. Assisting the Fundraising officers with planning and execution of fundraising activities;
+a. Assist the Fundraising officers with planning and execution of fundraising activities;
 
-b. Assisting the Corresponding Secretary with the preparation and distribution of flyers and other communications;
+b. Assist the Corresponding Secretary with the preparation and distribution of flyers and other communications;
 
-c. Assisting the Educational & Social Programming officer with the planning and execution of educational and social events;
+c. Assist the Educational & Social Programming officer with the planning and execution of educational and social events;
 
-d. Assisting the Parent Volunteer Coordinator with volunteer recruitment and coordination.
+d. Assist the Parent Volunteer Coordinator with volunteer recruitment and coordination.
 
 ### SLT (parent)
 
-The duties of the SLT (parent) member shall include but are not limited to the following:
-
-a. Meet monthly with the appointed School Leadership Team (Principal, Assistant Principal, UFT rep, Chairperson, 4 parent members and 4 teacher members), review the CEP and discuss school goals;
-
-b. Vote on school decisions.
-
-*This entry is preserved verbatim from the existing Article IV, Section C.4.*
+*Removed from Article IV.C and Article V.A in the finalized bylaws. The SLT parent member is not an officer of the Association. The SLT election process is retained in Article IV.E.*

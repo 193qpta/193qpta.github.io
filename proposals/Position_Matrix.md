@@ -2,7 +2,7 @@
 
 > All positions may be held by co-officers (see Decision 2: Co-Officer Policy), except Fundraising, which may be filled by up to 4 individuals each elected individually.
 >
-> **Note:** This list is tentative as of April 10, 2026. The committee will revisit and finalize after Proposal 10 (5th Grade Graduation Committee) is decided, since the two proposals interact.
+> **Note:** This list was finalized by the committee and incorporated into `193_bylaws/Bylaws_2026_Draft.md` as of April 19, 2026.
 
 ---
 
@@ -18,9 +18,9 @@
 
 ## Non-Mandatory Officers: What Changes
 
-### Current → Tentative
+### Current → Final
 
-| Today | Tentative | What changed and why |
+| Today | Final | What changed and why |
 |-------|----------|---------------------|
 | Corresponding Secretary | **Corresponding Secretary** | Kept as-is (flyers, copies); new explicit duty to secure admin approval for flyers before distribution |
 | Membership/Tech | **Social Media and Membership** | Renamed for clarity; combines social media postings, flyer review (created by Corresponding Secretary), and seasonal membership duties (collecting dues in early September) |
@@ -41,7 +41,7 @@
 
 ---
 
-## Tentative Non-Mandatory Officers: Clean List
+## Non-Mandatory Officers: Final List
 
 | # | Position | Key Responsibilities |
 |---|----------|---------------------|
@@ -55,11 +55,11 @@
 
 ---
 
-## Other Positions (no changes proposed)
+## Other Positions
 
-| Position | Duties |
+| Position | Status |
 |----------|--------|
-| SLT Parent Member(s) | Meet monthly with SLT; review CEP; discuss school goals; vote on school decisions |
+| SLT Parent Member(s) | Removed from officer duties (Art. IV.C) and board composition (Art. V.A). SLT election process retained in Art. IV.E. |
 
 ---
 
@@ -69,4 +69,4 @@
 - **6 named non-mandatory officer positions** — Corresponding Secretary, Social Media and Membership, Parent Volunteer Coordinator, Fundraising, Educational & Social Programming, 5th Grade Coordinator
 - **2 Member-at-Large seats** for incoming parents (Proposal 9)
 - **4 positions removed** — VP, Parliamentarian, Sergeant at Arms (unused bylaws positions), Hospitality (dormant)
-- Position list is tentative pending final committee approval of Proposal 10
+- Position list finalized and incorporated into bylaws draft

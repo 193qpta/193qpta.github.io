@@ -200,16 +200,14 @@ New families often want to get involved but are unfamiliar with the PTA and hesi
 
 ---
 
-# Discussed
-
-The following proposals were introduced at the March 30 meeting and received committee feedback. They are returning for further discussion and decision.
+# Decided (continued)
 
 ---
 
 ## Proposal 3: Restructure Non-Mandatory Officer Positions
 
-**Status:** Discussed — Under review, returning for decision
-**Decision Date:** *Pending*
+**Status:** Decided — Approved
+**Decision Date:** April 10, 2026 (tentative); finalized April 19, 2026
 
 ### Committee Feedback (March 30, 2026)
 - Initial feedback positive; fundraising split was well received
@@ -227,11 +225,11 @@ The following proposals were introduced at the March 30 meeting and received com
 - Fundraising split into 3 named sub-positions rejected; fundraising members will organize activities jointly with explicit duties defined in the bylaws
 - Educational & Social Programming position accepted as proposed
 
-### Committee Feedback (April 10, 2026) — Tentative; to be revisited after Proposal 10
+### Committee Feedback (April 10, 2026) — Finalized
 - Position list ends up close to current operational structure, with cleanup, renaming, and the new Educational & Social Programming Chair
 - **Membership/Tech** renamed to **Social Media and Membership** — combines social media postings, flyer review, and the seasonal membership duties (collecting dues in September)
 - **Parent Volunteer Coordinator** stays put as its own position
-- Position list will be revisited after Proposal 10 is finalized, since they interact
+- Position list finalized after Proposal 10 was adopted
 **Current bylaws reference:** Article IV.A.2 (Titles — non-mandatory officers); Article IV.C.4 (Duties — non-mandatory officers); Article V.A (Executive Board composition — blank placeholder)
 
 ### Rationale
@@ -240,7 +238,7 @@ The bylaws list VP, Corresponding Secretary, Parliamentarian, and Sergeant at Ar
 ### Proposed Changes
 See `Position_Matrix.md` for the full before/after breakdown. Summary:
 
-**Tentative non-mandatory officer list (to be finalized after Proposal 10):**
+**Non-mandatory officer list (finalized):**
 - **Corresponding Secretary** — flyers and copies; new explicit duty to secure administration approval for flyers before distribution
 - **Social Media and Membership** (renamed from Membership/Tech) — social media postings; review flyers created by Corresponding Secretary; collect dues in early September
 - **Parent Volunteer Coordinator** — stays put
@@ -264,16 +262,12 @@ The full proposed duty language for all non-mandatory officer positions is maint
 
 ---
 
-# Proposed (New)
-
-The following proposals have not yet been substantively discussed by the committee.
-
 ---
 
 ## Proposal 10: Establish 5th Grade Graduation Committee and Funding Structure
 
-**Status:** Discussed — Refined April 10 based on committee principles; ready for final committee review at next meeting
-**Decision Date:** *Pending*
+**Status:** Decided — Approved
+**Decision Date:** April 19, 2026
 **Current bylaws reference:** Article IV.A.2 (Titles — non-mandatory officers); Article VII.A (Standing Committees); Article VIII.G (Use of Funds) — no equivalent provisions exist for any of these changes
 
 ### Problem Statement
@@ -349,11 +343,9 @@ This proposal has three components: a new executive board position, a standing c
 
 # Pending Topics
 
-The following topics need committee discussion. Bylaws references are included so members can review current language before the meeting.
-
-| Topic | Current Bylaws Reference | Current State | Notes |
-|-------|-------------------------|---------------|-------|
-| Fill in succession order | Art. IV.D.7.c | Template brackets — never filled in | Must list all positions in rank order |
-| Fill in executive board composition | Art. V.A | "[insert all executive board officers here]" | Depends on outcome of Proposal 3 |
-| Remove editorial notes/template artifacts | Art. IV.C.1.m, Art. IV.C.3.d, Art. III.A.4 | "posted where? Dojo?", "cash app?", "[If the Association is a PTA include]" | Cleanup — should be uncontroversial |
-| Consider governance committee | N/A — not in current bylaws | No equivalent | PS 9 model: maintains bylaws, onboards new officers |
+| Topic | Current Bylaws Reference | Status | Notes |
+|-------|-------------------------|--------|-------|
+| ~~Fill in succession order~~ | Art. IV.D.7.c | Done (April 19, 2026) | |
+| ~~Fill in executive board composition~~ | Art. V.A | Done (April 19, 2026) | |
+| ~~Remove editorial notes/template artifacts~~ | Art. IV.C, VIII.D, VIII.E | Done (April 19, 2026) | |
+| Consider governance committee | N/A — not in current bylaws | Not adopted | PS 9 model: maintains bylaws, onboards new officers |
