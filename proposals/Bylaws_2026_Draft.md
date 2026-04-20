@@ -1,7 +1,7 @@
 # BYLAWS OF P.S. 193Q PTA
 
-> **Draft for General Membership Vote — 2026 Tri-Annual Revision**
-> Prepared by the Bylaws Revision Committee (Dan, Amy, Melissa, Nicole).
+> **Draft for General Membership Vote — 2026 Triennial Revision**
+> Prepared by the Bylaws Revision Committee (Dan, Amanda, Amy, Melissa, Nicole).
 > This document incorporates all proposals adopted by the committee across meetings held March 30, April 7, and April 10, 2026.
 
 ---
@@ -20,8 +20,13 @@
 | 8 | Added indemnification clause | Art. IX (new) |
 | 9 | Created Member-at-Large positions for incoming parents | Art. IV.A, IV.C, IV.D |
 | 10 | Established 5th Grade Graduation Committee and funding structure | Art. IV.A, IV.C, VII.A, VIII.J |
+| 11 | Filled in order of succession | Art. IV.D |
+| 12 | Removed hardcoded meeting schedule; deferred to annual parent survey | Art. VI.A |
+| 13 | Clarified term limit override (may continue indefinitely if uncontested) | Art. IV.B |
+| 14 | Updated deposit process to reflect actual practice | Art. VIII.C, VIII.I |
+| 15 | Removed SLT parent member from officer duties and board composition | Art. IV.C, V.A |
 | — | Filled in executive board composition (was blank placeholder) | Art. V.A |
-| — | Removed editorial notes and template artifacts | Art. IV.C |
+| — | Removed editorial notes and template artifacts | Art. IV.C, VIII.D, VIII.E |
 
 ---
 
@@ -46,7 +51,7 @@ A. The objectives of the Association include but are not limited to:
 
 1. A parent of a student currently on the register of P.S. 193Q is automatically a member of the Association.
 
-2. Parents of a child who is attending P.S. 193Q full time while on the register of a citywide program are eligible to be members of the Parent / Parent-Teacher Association. At the beginning of each school year, the Association shall send a welcome letter to inform parents of their automatic membership status and voting rights.
+2. Parents of a child who is attending P.S. 193Q full time while on the register of a citywide program are eligible to be members of the Association. At the beginning of each school year, the Association shall send a welcome letter to inform parents of their automatic membership status and voting rights.
 
 3. The term parent is defined as any person in a parental or custodial relationship to the student, which includes the following:
    - i. Birth parent
@@ -71,7 +76,7 @@ A. The objectives of the Association include but are not limited to:
 
 2. The election of officers must be conducted at an in-person meeting or using a virtual remote platform (VRP). Elections at a hybrid meeting are prohibited.
 
-3. Voting by proxy, absentee ballot or email, is prohibited.
+3. Voting by proxy, absentee ballot, or email is prohibited.
 
 4. Each teacher and paraprofessional, school aide, school secretary and food service worker currently employed at the school shall be entitled to a single vote.
 
@@ -81,7 +86,7 @@ A. The objectives of the Association include but are not limited to:
 
 ### A. Titles
 
-1. The mandatory officers of the Association shall be: president, recording secretary and treasurer. The election of mandatory officers will constitute a functioning Parent or Parent-Teacher Association. There shall be no qualification requirements for any parent to be an office holder of the Association, other than to be a parent of a child attending P.S. 193Q. The eligibility of any member may be limited by the Conflicts of Interest restrictions outlined in Chancellor's Regulation A-660.
+1. The mandatory officers of the Association shall be: President, Recording Secretary, and Treasurer. The election of mandatory officers will constitute a functioning Parent or Parent-Teacher Association. There shall be no qualification requirements for any parent to be an office holder of the Association, other than to be a parent of a child attending P.S. 193Q. The eligibility of any member may be limited by the Conflicts of Interest restrictions outlined in Chancellor's Regulation A-660.
 
 2. The non-mandatory officers of the Association shall consist of: Corresponding Secretary, Social Media and Membership, Parent Volunteer Coordinator, Fundraising (up to four individual positions), Educational & Social Programming, 5th Grade Coordinator, and Member-at-Large (two positions).
 
@@ -95,9 +100,9 @@ A. The objectives of the Association include but are not limited to:
 
 1. The term of office shall be no more than 12 months beginning July 1st and ending June 30th.
 
-2. Term limits[^3] for each officer position of the Association shall be 2 consecutive one-year terms. A candidate who has served the maximum number of consecutive terms in a position may only be elected to serve an additional term in that same position if no other interested candidate is nominated and willing to serve.
+2. Term limits[^3] for each officer position of the Association shall be 2 consecutive one-year terms. A candidate who has served the maximum number of consecutive terms in a position may continue to be elected to that position so long as no other interested candidate is nominated and willing to serve.
 
-3. Notwithstanding any other provision to the contrary, term limits may be exceeded through a co-officer position as long as one of the co-officers for the same position has not exceeded their term limits. If both co-officer candidates have exceeded their term limit, then they may be elected to serve an additional term only if no other interested candidate is nominated and willing to serve.
+3. Notwithstanding any other provision to the contrary, term limits may be exceeded through a co-officer position as long as one of the co-officers for the same position has not exceeded their term limits. If both co-officer candidates have exceeded their term limit, then they may continue to be elected so long as no other interested candidate is nominated and willing to serve.
 
 [^3]: The term of office pertains to the length of time a single person may be elected to a position on the executive board of the Association. The number of times a person may hold a particular office may be limited by the number of consecutive times a person may serve in that particular office.
 
@@ -109,11 +114,11 @@ The duties of the president shall include but are not limited to the following:
 
 a. Attend and preside at all meetings of the Association;
 
-b. Meet regularly with the Executive Board members in accordance with the bylaws to plan the agenda for the general membership meeting;
+b. Meet regularly with the executive board members in accordance with the bylaws to plan the agenda for the general membership meeting;
 
 c. Is an ex-officio member of all committees except the nominating committee;
 
-d. Appoint association committee chairpersons with the approval of the executive board;
+d. Appoint Association committee chairpersons with the approval of the executive board;
 
 e. Encourage meaningful participation in all parent and school activities;
 
@@ -125,21 +130,17 @@ h. Attend all regular meetings of the D25 presidents' council and monthly CEC me
 
 i. Is a mandatory member of the School Leadership Team[^4];
 
-j. Meet regularly with the executive board members;
+j. Is one of the eligible signatories on checks and debit card disbursement forms;
 
-k. Plan the agendas for the general membership meetings;
+k. Ensure all information regarding Association meetings and fundraisers is communicated to the school community;
 
-l. Is one of the eligible signatories on checks, and debit card disbursement forms;
+l. May be responsible for DOE issued email account;
 
-m. Ensure all information regarding PTA Association meetings and fundraisers are communicated to the school community;
-
-n. May be responsible for DOE issued email account;
-
-o. Assist with the June transfer of Association records, including all pertinent user IDs and passwords, to the incoming executive board.
+m. Assist with the June transfer of Association records, including all pertinent user IDs and passwords, to the incoming executive board.
 
 [^4]: Co-presidents must determine who will serve on the SLT and who will attend President Council meetings.
 
-#### 2. Recording Secretary
+#### 2. Recording Secretary or Co-Recording Secretaries
 
 The duties of the recording secretary shall include but are not limited to the following:
 
@@ -157,7 +158,7 @@ f. Is responsible for maintaining the DOE issued email account;
 
 g. May be one of the eligible signatories on checks and disbursement forms;
 
-h. Incorporate all amendments into the bylaws; and
+h. Incorporate all amendments into the bylaws;
 
 i. Ensure signed copies of the bylaws with the latest amendments are on file in the principal's office;
 
@@ -167,13 +168,13 @@ k. Assist with the June transfer of Association records, including all pertinent
 
 #### 3. Treasurer or Co-Treasurers
 
-The duties of the Treasurer shall include but are not limited to the following:
+The duties of the treasurer shall include but are not limited to the following:
 
 a. Responsible for all financial affairs and funds of the Association;
 
 b. Maintain an updated record of all income and expenditures of the Association;
 
-c. May be a signatory on checks, and debit card disbursement forms;
+c. May be a signatory on checks and debit card disbursement forms;
 
 d. May be responsible for setting up online access to the bank account;
 
@@ -215,7 +216,7 @@ c. Maintain the Association's online communication and meeting platforms, includ
 
 d. Prepare and update membership forms and invitations to join prior to the beginning of each school year;
 
-e. Coordinate the collection of membership dues in early September and forward all collected funds to the Treasurer;
+e. Coordinate the collection of voluntary donations in early September and forward all collected funds to the Treasurer;
 
 f. Create and maintain the Association's membership roster.
 
@@ -253,33 +254,27 @@ d. Bring proposals for new educational or social programming to the executive bo
 
 **5th Grade Coordinator:** The 5th Grade Coordinator chairs the 5th Grade Graduation Committee and oversees the planning and execution of 5th grade senior activities. The 5th Grade Coordinator need not have a child currently enrolled in 5th grade. The duties of the 5th Grade Coordinator shall include but are not limited to the following:
 
-a. Soliciting input from upcoming 5th grade families to inform the committee's planning;
+a. Solicit input from upcoming 5th grade families to inform the committee's planning;
 
-b. Recruiting members for the 5th Grade Graduation Committee from the 5th grade parent community;
+b. Recruit members for the 5th Grade Graduation Committee from the 5th grade parent community;
 
-c. Submitting an annual budget request through the Association's budget process and managing the 5th grade activity budget in coordination with the Treasurer;
+c. Submit an annual budget request through the Association's budget process and manage the 5th grade activity budget in coordination with the Treasurer;
 
-d. Coordinating graduation-related fundraising;
+d. Coordinate graduation-related fundraising;
 
-e. Meeting with the school administration in July and again in October of each school year to coordinate graduation-related activities;
+e. Meet with the school administration in July and again in October of each school year to coordinate graduation-related activities;
 
-f. Meeting monthly with the President and the Fundraising team while school is in session to discuss upcoming activities and ensure alignment with broader PTA operations.
+f. Meet monthly with the President and the Fundraising team while school is in session to discuss upcoming activities and ensure alignment with broader Association operations.
 
 **Member-at-Large:** Two (2) Member-at-Large positions are reserved for parents or guardians whose child first enrolled at P.S. 193Q after the date of the most recent annual election. Members-at-Large are elected in October and serve on the executive board with voting rights. The duties of the Member-at-Large positions shall include but are not limited to:
 
-a. Assisting the Fundraising officers with planning and execution of fundraising activities;
+a. Assist the Fundraising officers with planning and execution of fundraising activities;
 
-b. Assisting the Corresponding Secretary with the preparation and distribution of flyers and other communications;
+b. Assist the Corresponding Secretary with the preparation and distribution of flyers and other communications;
 
-c. Assisting the Educational & Social Programming officer with the planning and execution of educational and social events;
+c. Assist the Educational & Social Programming officer with the planning and execution of educational and social events;
 
-d. Assisting the Parent Volunteer Coordinator with volunteer recruitment and coordination.
-
-**SLT (parent):** The duties of the SLT (parent) member shall include but are not limited to the following:
-
-a. Meet monthly with the appointed School Leadership Team (Principal, Assistant Principal, UFT rep, Chairperson, 4 parent members and 4 teacher members), review the CEP and discuss school goals;
-
-b. Vote on school decisions.
+d. Assist the Parent Volunteer Coordinator with volunteer recruitment and coordination.
 
 ### D. Election of Officers
 
@@ -339,26 +334,37 @@ b. Vote on school decisions.
 
    Officer vacancies must be filled by succession or by an expedited election. A vacancy occurs when an officer resigns or is removed from the position. Officers who wish to resign their positions once an election has been certified must submit their written resignation to the recording secretary and immediately turn over all Association records.
 
-   a. When an office cannot be filled through succession, by the next highest ranking officer, an expedited election must be held to fill the vacancy.
+   a. When an office cannot be filled through succession by the next highest ranking officer, an expedited election must be held to fill the vacancy.
 
    b. An officer may choose to retain their current position and not assume the higher ranking office.
 
    c. The ranking of officers for succession purposes shall be:
-      - i. [TO BE DETERMINED BY COMMITTEE: order of succession]
+      - i. President
+      - ii. Recording Secretary
+      - iii. Treasurer
+      - iv. Social Media and Membership
+      - v. Corresponding Secretary
+      - vi. Parent Volunteer Coordinator
+      - vii. Educational & Social Programming
+      - viii. Fundraising
+      - ix. 5th Grade Coordinator
+      - x. Member-at-Large
 
-   d. Upon the resignation or removal of a co-officer, the remaining co-officer must choose whether to serve alone for the remainder of the term or resign so that the position can be filled by succession or expedited election.
+   d. Where a position in the order of succession is held by more than one officer, the officers holding that position shall decide among themselves who will assume the vacated role.
+
+   e. Upon the resignation or removal of a co-officer, the remaining co-officer must choose whether to serve alone for the remainder of the term or resign so that the position can be filled by succession or expedited election.
 
 8. **Expedited Election Process**
 
-   Expedited elections shall be held to fill vacancies in the event the office cannot be filled through succession of the next highest ranking officers as listed in the order of succession. The executive board shall be responsible for announcing vacancies and distributing written notice indicating the date, time and meeting format (in-person or VRP) of the expedited election. All nominations must be taken from the floor, immediately prior to the election. If the election is contested, written ballots must be used in accordance with Section 5a of these bylaws. Elections in a hybrid meeting are prohibited.
+   Expedited elections shall be held to fill vacancies in the event the office cannot be filled through succession of the next highest ranking officers as listed in the order of succession. The executive board shall be responsible for announcing vacancies and distributing written notice indicating the date, time and meeting format (in-person or VRP) of the expedited election. All nominations must be taken from the floor, immediately prior to the election. If the election is contested, written ballots must be used in accordance with Article IV, Section D.5.a of these bylaws. Elections in a hybrid meeting are prohibited.
 
-   If quorum (see Section I.J.5.) is not met at the election meeting, a second election meeting must be scheduled, and a written Notice of Election Meeting must be sent to all parents at least 5 calendar days prior to the election.
+   If quorum (see Article VI, Section C) is not met at the election meeting, a second election meeting must be scheduled, and a written Notice of Election Meeting must be sent to all parents at least 5 calendar days prior to the election.
 
 ### E. School Leadership Team Parent Member Elections
 
 1. The election of parent members to the School Leadership Team (SLT) may take place during the same meeting as officer elections.
-   a. Once the election of PA/PTA officers has concluded, the election of parent members to the SLT may begin.
-   b. The election of parent members to the SLT should follow the same or similar election procedure as PA/PTA officer elections.
+   a. Once the election of Association officers has concluded, the election of parent members to the SLT may begin.
+   b. The election of parent members to the SLT should follow the same or similar election procedure as Association officer elections.
 
 ### F. Disciplinary Action
 
@@ -368,7 +374,7 @@ b. Vote on school decisions.
 
    b. Any officer who accrues 3 consecutive unexcused absences from executive board or general membership meetings.
 
-   c. Any officer who poses a threat to the safety and well order of the Association or larger school community.
+   c. Any officer who poses a threat to the safety and good order of the Association or larger school community.
 
    d. Any officer who exercises behavior unbefitting the office as determined by the general membership.
 
@@ -391,11 +397,11 @@ b. Vote on school decisions.
 
 ### A. Composition
 
-The executive board shall be composed of the elected officers of the Association as listed here: President, Recording Secretary, Treasurer, Corresponding Secretary, Social Media and Membership, Parent Volunteer Coordinator, Fundraising (up to four positions), Educational & Social Programming, 5th Grade Coordinator, Member-at-Large (two positions), and SLT parent member(s). Officers shall be expected to attend all executive board meetings.
+The executive board shall be composed of the elected officers of the Association as listed here: President, Recording Secretary, Treasurer, Corresponding Secretary, Social Media and Membership, Parent Volunteer Coordinator, Fundraising (up to four positions), Educational & Social Programming, 5th Grade Coordinator, and Member-at-Large (two positions). Officers shall be expected to attend all executive board meetings.
 
 ### B. Meetings
 
-The executive board shall meet monthly on the second Tuesday of every month at 8:30 AM and/or 7:00 PM, unless such date falls on a legal or religious holiday, in which case the meeting shall be held on the following or previous Tuesday. The executive board must determine its capacity to host meetings using a particular meeting format (in-person, virtual and hybrid). Meetings will be conducted using the following method: virtual or hybrid depending upon the majority preference of the board.
+The executive board shall meet monthly, September through June, on a day, time, and in a format determined by a majority vote of the board. If a scheduled meeting date falls on a legal or religious holiday, the meeting shall be held on the following or previous week, as determined by the executive board.
 
 ### C. Voting
 
@@ -417,7 +423,7 @@ At least one meeting will be scheduled during the month of June for this purpose
 
 1. At the beginning of every school year, the executive board must survey the parent members to determine the day, time, location, and format (in-person, virtual, or hybrid) for the monthly general membership meeting.
 
-2. General membership meetings of the Association shall be held monthly, September through June, on the 3rd Tuesday of the month at 8:30 AM and/or 7:00 PM, unless such date falls on a legal or religious holiday, in which case the meeting shall be held on the following or previous Tuesday, as determined by the executive board. Written notice of each membership meeting shall be distributed in languages spoken by parents at the school, whenever possible. Notice must be sent at least 10 calendar days prior to the scheduled meeting.
+2. General membership meetings of the Association shall be held monthly, September through June, on a day, time, and in a format determined by the executive board based on the annual survey of parent members. If a scheduled meeting date falls on a legal or religious holiday, the meeting shall be held on the following or previous week, as determined by the executive board. Written notice of each membership meeting shall be distributed in languages spoken by parents at the school, whenever possible. Notice must be sent at least 10 calendar days prior to the scheduled meeting.
 
    a. All general membership meetings must be held in the Association's home school and/or via online platform.
 
@@ -432,19 +438,28 @@ At least one meeting will be scheduled during the month of June for this purpose
 The order of business at meetings of the Association, unless changed by the executive board, shall be:
 
 a. Call to Order
+
 b. Reading and Approval of Minutes
+
 c. President's Report
+
 d. Treasurer's Report
+
 e. Principal's Report
+
 f. School Leadership Team Report
+
 g. Committee Reports
+
 h. Old Business
+
 i. New Business
+
 j. Adjournment
 
 ### C. Quorum
 
-A quorum of at least 8 Association members, including a minimum of 2 executive board members and 6 parent members, shall be required in order to conduct official Association business.[^8] Quorum for a Hybrid meeting shall consist of at least one of the executive board members present at the in-person location and at least one executive board member on the virtual platform.
+A quorum of at least 8 Association members, including a minimum of 2 executive board members and 6 parent members, shall be required in order to conduct official Association business.[^8] Quorum for a hybrid meeting shall consist of at least one of the executive board members present at the in-person location and at least one executive board member on the virtual platform.
 
 [^8]: In exceptional circumstances, the Association may seek a waiver of the minimum quorum requirement from FACE as per CR A-660.
 
@@ -454,7 +469,7 @@ Minutes of the previous meeting shall be available in written form approved at e
 
 ### E. Special Membership Meetings
 
-A special membership meeting may be called to deal with a matter of importance that cannot be postponed until the next general membership meeting. The president may call a special membership meeting with a minimum of 48 hours written notice to parents stating precisely what the topic of the meeting will be. **This does not apply to the PA/PTA's or Presidents' Councils' election.**
+A special membership meeting may be called to deal with a matter of importance that cannot be postponed until the next general membership meeting. The president may call a special membership meeting with a minimum of 48 hours written notice to parents stating precisely what the topic of the meeting will be. **This does not apply to the Association's election.**
 
 Upon receipt of a written request from 7 Association members, the president must call a special membership meeting within 5 calendar days of the request and provide 48 hours written notice to parents.
 
@@ -466,33 +481,23 @@ Meeting rules of order should be adopted for use as a guide and included in thes
 
 ### A. Standing Committees
 
-1. **Membership:** The responsibilities of the membership committee shall include but are not limited to:
-
-   a. Encourage parent participation through recruitment and outreach;
-
-   b. Plan various activities and events for member participation;
-
-   c. Coordinate outreach efforts with the Parent Coordinator when possible;
-
-   d. Maintain current list of the Association's membership.
-
-2. **Budget:** The responsibilities of the budget committee shall include but are not limited to:
+1. **Budget:** The responsibilities of the budget committee shall include but are not limited to:
 
    a. Review prior year's budget and make recommendations to executive board;
 
    b. Draft a proposed budget each spring for approval by general membership.
 
-3. **Audit:** The responsibilities of the audit committee shall include but are not limited to:
+2. **Audit:** The responsibilities of the audit committee shall include but are not limited to:
 
-   a. Conduct an internal audit of all financial affairs of the organization when needed or as determined by these bylaws;
+   a. Conduct an internal audit of all financial affairs of the Association when needed or as determined by these bylaws;
 
    b. Review as needed all financial records;
 
    c. Prepare written reports of its findings.
 
-4. **Ad Hoc:** To accomplish a specific task or address a specific issue, the executive board may recommend the formation of a committee that will cease to function once the task or issue has been addressed. The creation and dissolution of the committee must be recorded in the minutes of the Association.
+3. **Ad Hoc:** To accomplish a specific task or address a specific issue, the executive board may recommend the formation of a committee that will cease to function once the task or issue has been addressed. The creation and dissolution of the committee must be recorded in the minutes of the Association.
 
-5. **5th Grade Graduation Committee**
+4. **5th Grade Graduation Committee**
 
    a. The 5th Grade Graduation Committee shall be responsible for planning and organizing graduation and senior activities for the 5th grade class. Activities have historically included a graduation ceremony, yearbook, and senior apparel, but the scope of activities undertaken in any given year is at the committee's discretion, informed by input gathered from upcoming 5th grade families. The committee is not obligated to organize any particular activity.
 
@@ -516,7 +521,7 @@ The fiscal year of the Association shall run from July 1 through June 30.
 
 ### B. Signatories
 
-The president, treasurer, and recording secretary shall be authorized to sign checks. All checks require at least 2 signatures. The 2 signatories of a check may not be related by blood or marriage (i.e. spouses, siblings, in-laws, relatives or members of the same household). An Association member may not sign a check if she/he has any direct or indirect interest in the expenditure.
+The president, treasurer, and recording secretary shall be authorized to sign checks. All checks require at least 2 signatures. The 2 signatories of a check may not be related by blood or marriage (i.e. spouses, siblings, in-laws, relatives or members of the same household). An Association member may not sign a check if they have any direct or indirect interest in the expenditure.
 
 ### C. Budget
 
@@ -536,25 +541,25 @@ e. The counting and handling of any cash, checks, or money orders received by th
 
 f. The principal's written consent is required when a fundraising activity is held during school hours or on school property.
 
-g. All funds should be deposited into the bank account by an authorized executive board member within 1 business day of receipt, but in any event, no longer than 3 business days. If the deposit will not be made within 1 business day, the executive board must ensure that all funds are secured in a locked location on school premises. The executive board must obtain written acknowledgement from the principal when Association funds are secured in the school. Under no circumstances may fundraiser proceeds be stored in a member's place of work or residence. Association funds must be taken to the bank for deposit by at least 2 authorized members.
+g. All funds should be deposited into the bank account by the Treasurer within 1 business day of receipt, but in any event, no longer than 3 business days. If the deposit will not be made within 1 business day, the executive board must ensure that all funds are secured in a locked location on school premises. The executive board must obtain written acknowledgement from the principal when Association funds are secured in the school. Under no circumstances may fundraiser proceeds be stored in a member's place of work or residence. The member preparing the deposit shall photograph the completed deposit slip and share it with the executive board before the deposit is made. The Treasurer shall photograph the deposit receipt and share it with the executive board after the deposit is made.
 
 h. Documentation related to every transaction must be maintained at the school (e.g., canceled checks, deposit receipts, purchase orders, Association minutes related to the financial transactions, etc.)
 
 ### D. Banking
 
-Contact your bank for instructions on how to open a checking account that includes online access for PA/PTA's & President's Councils.
+The Association shall contact its banking institution for instructions on how to open a checking account that includes online access.
 
-To set up online banking, you must use your DOE issued email to open and link bank account. (Do not link your personal bank account to the PA/PTA or President's Council bank account.) If you need access to the DOE issued email, please contact your Parent Coordinator, School Administrator or Family Leadership Coordinator.
+To set up online banking, the Association must use its DOE issued email to open and link the bank account. The Association's bank account must not be linked to any personal bank account. If access to the DOE issued email is needed, the executive board should contact the Parent Coordinator, School Administrator, or Family Leadership Coordinator.
 
-PA/PTAs that have established online access to checking accounts are able to make payments through their bank's online bill payment system.
+The Association may make payments through the bank's online bill payment system once online access to the checking account has been established.
 
-All transactions must receive prior authorization to make a payment through their bank's online bill payment system from the general membership. This authorization is separate from and in addition to the approval of the expenditure.
+All transactions made through the bank's online bill payment system must receive prior authorization from the general membership. This authorization is separate from and in addition to the approval of the expenditure.
 
-A Disbursement Form must be completed for all transactions; the form must be signed by 2 account signatories and filed with the PA/PTA's or Presidents' Council's financial records. A disbursement form should include but not limited to: date, payment method, amount, PIN/signature, amount paid, paid by whom, membership approval date, receipt attachment/invoice, and description of purchase/expenditure.
+A Disbursement Form must be completed for all transactions; the form must be signed by 2 account signatories and filed with the Association's financial records. A disbursement form should include but is not limited to: date, payment method, amount, PIN/signature, amount paid, paid by whom, membership approval date, receipt attachment/invoice, and description of purchase/expenditure.
 
 ### E. ATM/Bank Cards
 
-PA/PTA's and President's Councils may possess and use ATM/Bank Cards issued by the banking institution connected to the primary checking account of the association. ATM/Bank Cards must be linked to PA/PTA accounts only; linking the debit card to a personal account is prohibited.
+The Association may possess and use ATM/Bank Cards issued by the banking institution connected to the primary checking account of the Association. ATM/Bank Cards must be linked to the Association's account only; linking the debit card to a personal account is prohibited.
 
 **Approved uses:**
 
@@ -566,7 +571,7 @@ b. Vendors who do not accept a physical check
 
 a. Third party applications such as personal mobile phone wallets or any other personal electronic device
 
-b. Linkage to your personal account (phone, Uber, Lyft, or any other transportation expenditures)
+b. Linkage to a personal account (phone, Uber, Lyft, or any other transportation expenditures)
 
 c. Direct Donations
 
@@ -578,7 +583,7 @@ f. ATM Cash/Bank Card Withdrawals are prohibited
 
 ### F. Third Party Cash Applications
 
-a. PA/PTA's and President's Councils may use third-party applications to accept money. The application must be created using the DOE issued email and must be connected directly to the PA/PTA bank account using the PA/PTA account number or debit card.
+a. The Association may use third-party applications to accept money. The application must be created using the DOE issued email and must be connected directly to the Association's bank account using the Association's account number or debit card.
 
 b. Approved transactions: Receiving money.
 
@@ -590,7 +595,7 @@ c. Prohibited use: Outgoing transactions; Debit Cards generated by a third party
 
 2. **Expenditure:** All expenditures not included in the budget at the time of its adoption must be approved by vote of the general membership.
 
-3. **Emergency Expenditures:** The executive board is authorized to make an emergency expenditure not to exceed $2,500 with a two-thirds approval of the executive board. Emergency expenditures are appropriate for the following purposes: sole purpose of school needs. These expenditures shall be reported to the general membership at the next Association meeting in writing by the treasurer. The minutes of the meeting must reflect a vote taken by the Association to accept this action.
+3. **Emergency Expenditures:** The executive board is authorized to make an emergency expenditure not to exceed $2,500 with a two-thirds approval of the executive board. Emergency expenditures shall be used solely for school needs. These expenditures shall be reported to the general membership at the next Association meeting in writing by the treasurer. The minutes of the meeting must reflect a vote taken by the Association to accept this action.
 
 4. **Misuse of Funds:** Allegations of financial wrongdoing may result in a legal investigation. Misappropriation of funds and the misuse of an ATM/Bank Card may be punishable by law. The Chancellor or designee may immediately remove any officer complicit in the violation of this provision.
 
@@ -598,7 +603,7 @@ c. Prohibited use: Outgoing transactions; Debit Cards generated by a third party
 
 #### 1. Audit Committee
 
-The president shall request volunteers to form an audit committee of 3 to 5 persons of the general membership. Executive board members who are not eligible signatories on an association's checking account may serve on the audit committee. General members shall constitute the majority of the committee.
+The president shall request volunteers to form an audit committee of 3 to 5 persons of the general membership. Executive board members who are not eligible signatories on the Association's checking account may serve on the audit committee. General members shall constitute the majority of the committee.
 
 #### 2. Duties
 
@@ -616,7 +621,7 @@ The treasurer shall prepare the Interim PA Financial Report by January 31st and 
 
 #### 2. Record Keeping
 
-The treasurer shall be responsible for all funds of the Association and shall keep accurate records in a form consistent with these bylaws and applicable Regulations of the Chancellor. In accordance with Chancellor's Regulation A-610, parents must obtain written approval from the principal before collecting fundraiser proceeds from students. The treasurer and at least one other officer shall transport all funds to the bank.
+The treasurer shall be responsible for all funds of the Association and shall keep accurate records in a form consistent with these bylaws and applicable Regulations of the Chancellor. In accordance with Chancellor's Regulation A-610, parents must obtain written approval from the principal before collecting fundraiser proceeds from students. The treasurer shall transport all funds to the bank for deposit.
 
 Deposit slips shall identify the source of all deposited funds. All parties involved in financial transactions shall initial the deposit slips. All financial records of the Association including checkbooks, ledgers, canceled checks, invoices, receipts etc., shall be maintained and secured on school premises.
 
@@ -634,7 +639,7 @@ Funding for 5th grade senior activities comprises three components: support from
 
 ## Article IX -- Indemnification
 
-The Association may, to the extent legally permissible, indemnify any past or present officer, director, eligible member, or volunteer against all expenses and liabilities reasonably incurred in connection with actual or threatened legal proceedings by reason of his or her service in such capacity, provided that that individual has not engaged in willful misconduct or gross negligence that directly or indirectly led to the named or threatened action. Reasonable expenses shall include judgments, fines, penalties, settlements, and reasonable attorneys' fees incurred by an attorney selected by the PTA. This provision shall not limit the PTA's ability to otherwise indemnify individuals at its discretion.
+The Association may, to the extent legally permissible, indemnify any past or present officer, director, eligible member, or volunteer against all expenses and liabilities reasonably incurred in connection with actual or threatened legal proceedings by reason of their service in such capacity, provided that the individual has not engaged in willful misconduct or gross negligence that directly or indirectly led to the named or threatened action. Reasonable expenses shall include judgments, fines, penalties, settlements, and reasonable attorneys' fees incurred by an attorney selected by the Association. This provision shall not limit the Association's ability to otherwise indemnify individuals at its discretion.
 
 ## Article X -- Amendments and Regular Review of Bylaws
 
