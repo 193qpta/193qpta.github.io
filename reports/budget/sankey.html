@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>193Q PTA — Budget Flow (July 1, 2026)</title>
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
+<style>
+  :root {
+    --ink: #1f2937;
+    --muted: #6b7280;
+    --line: #e5e7eb;
+    --bg: #ffffff;
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--ink);
+    background: var(--bg);
+    margin: 0;
+    padding: 1.5rem 1rem;
+    line-height: 1.45;
+  }
+  .wrap { max-width: 1100px; margin: 0 auto; }
+  h1 { margin: 0 0 0.25rem; font-size: 1.5rem; }
+  .subtitle { color: var(--muted); margin: 0 0 1rem; font-size: 0.95rem; }
+  #sankey { width: 100%; height: 720px; }
+  .legend { display: flex; flex-wrap: wrap; gap: 0.75rem 1.25rem; margin: 0.5rem 0 1rem; font-size: 0.85rem; color: var(--muted); }
+  .legend span { display: inline-flex; align-items: center; gap: 0.4rem; }
+  .swatch { width: 0.85rem; height: 0.85rem; border-radius: 2px; display: inline-block; }
+  footer { color: var(--muted); font-size: 0.8rem; margin-top: 1rem; text-align: center; }
+  .note { color: var(--muted); font-size: 0.85rem; margin: 0 0 1rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>193Q PTA — Budget Flow of Funds</h1>
+  <p class="subtitle">
+    FY2027 Budget &middot; Fiscal year beginning July 1, 2026
+  </p>
+  <p class="note">
+    Every dollar in equals a dollar out: opening fund balance and revenue (left)
+    flow through total funds to expenses, transfers out, and the projected
+    ending fund balance (right). Hover any flow for its budgeted amount.
+  </p>
+
+  <div class="legend">
+    <span><i class="swatch" style="background:#2563eb"></i>Opening balance</span>
+    <span><i class="swatch" style="background:#047857"></i>Revenue</span>
+    <span><i class="swatch" style="background:#b45309"></i>Expenses</span>
+    <span><i class="swatch" style="background:#7c3aed"></i>Transfers out</span>
+    <span><i class="swatch" style="background:#0f766e"></i>Ending balance</span>
+  </div>
+
+  <div id="sankey"></div>
+
+  <footer>Generated 2026-05-24 07:18 from <code>FY2027 Budget</code>.</footer>
+</div>
+
+<script>
+  const nodes = [{"label": "Total Funds", "color": "#374151", "x": 0.5}, {"label": "Opening Balance", "color": "#2563eb", "x": 0.001}, {"label": "Book Fair", "color": "#047857", "x": 0.001}, {"label": "Membership Dues", "color": "#047857", "x": 0.001}, {"label": "Halloween Dance", "color": "#047857", "x": 0.001}, {"label": "Picture Day", "color": "#047857", "x": 0.001}, {"label": "Pizza Days", "color": "#047857", "x": 0.001}, {"label": "Apparel Sales", "color": "#047857", "x": 0.001}, {"label": "Holiday Shop", "color": "#047857", "x": 0.001}, {"label": "Mother's Day Shop", "color": "#047857", "x": 0.001}, {"label": "Fun Friday", "color": "#047857", "x": 0.001}, {"label": "Father's Day Shop", "color": "#047857", "x": 0.001}, {"label": "Other Fundraising", "color": "#047857", "x": 0.001}, {"label": "Supplies", "color": "#b45309", "x": 0.999}, {"label": "Website", "color": "#b45309", "x": 0.999}, {"label": "Assemblies and Residencies", "color": "#b45309", "x": 0.999}, {"label": "Carnival", "color": "#b45309", "x": 0.999}, {"label": "Teacher Appreciation", "color": "#b45309", "x": 0.999}, {"label": "Welcome Back Event", "color": "#b45309", "x": 0.999}, {"label": "Fall Festival", "color": "#b45309", "x": 0.999}, {"label": "Other", "color": "#b45309", "x": 0.999}, {"label": "Hospitality", "color": "#b45309", "x": 0.999}, {"label": "Holiday Sing", "color": "#b45309", "x": 0.999}, {"label": "5th Grade Committee Obligated Funds", "color": "#7c3aed", "x": 0.999}, {"label": "Super Storm Fund", "color": "#7c3aed", "x": 0.999}, {"label": "Ending Balance", "color": "#0f766e", "x": 0.999}];
+  const links = [{"source": 1, "target": 0, "value": 20000.0, "color": "rgba(37,99,235,0.45)", "category": "Opening fund balance"}, {"source": 2, "target": 0, "value": 7000.0, "color": "rgba(4,120,87,0.45)", "category": "Income"}, {"source": 3, "target": 0, "value": 6500.0, "color": "rgba(4,120,87,0.45)", "category": "Income"}, {"source": 4, "target": 0, "value": 5000.0, "color": "rgba(4,120,87,0.45)", "category": "Income"}, {"source": 5, "target": 0, "value": 5000.0, "color": "rgba(4,120,87,0.45)", "category": "Income"}, {"source": 6, "target": 0, "value": 4000.0, "color": "rgba(4,120,87,0.45)", "category": "Income"}, {"source": 7, "target": 0, "value": 3000.0, "color": "rgba(4,120,87,0.45)", "category": "Income"}, {"source": 8, "target": 0, "value": 3000.0, "color": "rgba(4,120,87,0.45)", "category": "Income"}, {"source": 9, "target": 0, "value": 2000.0, "color": "rgba(4,120,87,0.45)", "category": "Income"}, {"source": 10, "target": 0, "value": 2000.0, "color": "rgba(4,120,87,0.45)", "category": "Income"}, {"source": 11, "target": 0, "value": 1500.0, "color": "rgba(4,120,87,0.45)", "category": "Income"}, {"source": 12, "target": 0, "value": 250.0, "color": "rgba(4,120,87,0.45)", "category": "Income"}, {"source": 0, "target": 13, "value": 300.0, "color": "rgba(180,83,9,0.45)", "category": "Non Program Expenses"}, {"source": 0, "target": 14, "value": 50.0, "color": "rgba(180,83,9,0.45)", "category": "Non Program Expenses"}, {"source": 0, "target": 15, "value": 20000.0, "color": "rgba(180,83,9,0.45)", "category": "Program Expenses"}, {"source": 0, "target": 16, "value": 7000.0, "color": "rgba(180,83,9,0.45)", "category": "Program Expenses"}, {"source": 0, "target": 17, "value": 3500.0, "color": "rgba(180,83,9,0.45)", "category": "Program Expenses"}, {"source": 0, "target": 18, "value": 2000.0, "color": "rgba(180,83,9,0.45)", "category": "Program Expenses"}, {"source": 0, "target": 19, "value": 600.0, "color": "rgba(180,83,9,0.45)", "category": "Program Expenses"}, {"source": 0, "target": 20, "value": 600.0, "color": "rgba(180,83,9,0.45)", "category": "Program Expenses"}, {"source": 0, "target": 21, "value": 500.0, "color": "rgba(180,83,9,0.45)", "category": "Program Expenses"}, {"source": 0, "target": 22, "value": 200.0, "color": "rgba(180,83,9,0.45)", "category": "Program Expenses"}, {"source": 0, "target": 23, "value": 1500.0, "color": "rgba(124,58,237,0.45)", "category": "Transfer out to reserves"}, {"source": 0, "target": 24, "value": 4000.0, "color": "rgba(124,58,237,0.45)", "category": "Transfer out to reserves"}, {"source": 0, "target": 25, "value": 19000.0, "color": "rgba(15,118,110,0.45)", "category": "Projected ending fund balance"}];
+
+  const data = [{
+    type: "sankey",
+    arrangement: "snap",
+    valueformat: "$,.0f",
+    node: {
+      pad: 14,
+      thickness: 18,
+      line: { color: "#ffffff", width: 1 },
+      label: nodes.map(n => n.label),
+      color: nodes.map(n => n.color),
+      x: nodes.map(n => n.x),
+      hovertemplate: "%{label}<br><b>%{value}</b><extra></extra>"
+    },
+    link: {
+      source: links.map(l => l.source),
+      target: links.map(l => l.target),
+      value:  links.map(l => l.value),
+      color:  links.map(l => l.color),
+      customdata: links.map(l => l.category),
+      hovertemplate: "%{customdata}<br>%{source.label} → %{target.label}<br><b>%{value}</b><extra></extra>"
+    }
+  }];
+
+  const layout = {
+    font: { family: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
+            size: 13, color: "#1f2937" },
+    margin: { l: 10, r: 10, t: 10, b: 10 },
+    paper_bgcolor: "#ffffff",
+    plot_bgcolor: "#ffffff"
+  };
+
+  Plotly.newPlot("sankey", data, layout, { responsive: true, displaylogo: false });
+</script>
+</body>
+</html>
